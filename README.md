@@ -7,7 +7,7 @@ identificada via OpenCV.
 ## Tecnologias
 - Python
 - ROS
-- C
+- C e C++
 
 ## Dissertação de mestrado anexada
 https://repositorio.ufjf.br/jspui/handle/ufjf/13005
